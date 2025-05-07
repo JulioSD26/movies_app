@@ -1,12 +1,21 @@
-# React + Vite
+# 🎬 Movie Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web app hecha con React + Tailwind que te permite explorar las películas más populares y buscar tus favoritas usando la API de TMDB.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [The Movie Database API (TMDB)](https://www.themoviedb.org/documentation/api)
+- [Appwrite](https://appwrite.io/)
+- `useDebounce` personalizado para mejorar el rendimiento en búsquedas
 
-## Expanding the ESLint configuration
+## 🔍 Características
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔥 Muestra el **Top 5 de películas en tendencia**
+- 🔎 Búsqueda en tiempo real con **debounce**
+- 🎨 Interfaz responsive y moderna con Tailwind
+- ☁️ Integración con **Appwrite** (autenticación o base de datos)
+- 🔐 Variables de entorno para mayor seguridad
+
+🔗 Basado en el proyecto original de JavaScript Mastery

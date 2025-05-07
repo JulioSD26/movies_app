@@ -2,6 +2,9 @@
 
 Web app hecha con React + Tailwind que te permite explorar las películas más populares y buscar tus favoritas usando la API de TMDB.
 
+![image](https://github.com/user-attachments/assets/be4755cf-3a34-4594-9ce6-bb2acb3d37e6)
+
+
 ## 🚀 Tecnologías utilizadas
 
 - [React](https://reactjs.org/)
